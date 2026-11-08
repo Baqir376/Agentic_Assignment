@@ -1,0 +1,6 @@
+{
+  "cities": ["Karachi", "Lahore", "Islamabad", "Rawalpindi", "Faisalabad", "Multan", "Peshawar", "Quetta", "Sialkot", "Gujranwala", "Hyderabad", "Abbottabad", "Bahawalpur", "Sargodha", "Sukkur", "Larkana", "Sheikhupura", "Rahim Yar Khan", "Jhang", "Sahiwal", "Mardan", "Gujrat", "Kasur", "Dera Ghazi Khan", "Nawabshah", "Chiniot", "Hafizabad", "Kohat", "Muzaffarabad", "Mirpur", "Turbat", "Khuzdar", "Hub", "Jacobabad", "Shikarpur", "Khairpur", "Dadu", "Nowshera", "Swabi", "Charsadda"],
+  "areas": ["DHA", "Gulshan-e-Iqbal", "Model Town", "Johar Town", "Bahria Town", "Clifton", "Defence", "PECHS", "North Nazimabad", "Gulberg", "Township", "Valencia", "Cantt", "Saddar", "F-6", "F-7", "F-8", "G-9", "G-10", "G-11", "Blue Area", "I-8", "E-7", "Askari", "Cavalry Ground", "Wapda Town", "Allama Iqbal Town", "Green Town", "Gulshan-e-Ravi", "Faisal Town", "Muslim Town", "Garden Town", "Shah Faisal Colony", "Nazimabad", "Liaquatabad", "New Karachi", "Korangi", "Landhi", "Malir", "Orangi Town"],
+  "provinces": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan", "Gilgit-Baltistan", "Azad Kashmir"]
+}
+

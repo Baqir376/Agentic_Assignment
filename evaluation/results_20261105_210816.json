@@ -1,0 +1,77 @@
+{
+  "mode": "privacyswarm",
+  "n_docs": 5,
+  "n_valid": 5,
+  "avg_pii_leakage_rate": 55.45,
+  "avg_pii_detection_recall": 56.54,
+  "avg_factual_retention": 36.01,
+  "avg_latency_seconds": 18.48,
+  "routing_breakdown": {
+    "local": 5,
+    "cloud": 0
+  },
+  "hallucination_rate": 0.0,
+  "avg_validation_attempts": 2.6,
+  "per_doc_results": [
+    {
+      "id": "doc_001",
+      "category": "hr",
+      "pii_count": 15,
+      "pii_leakage": 60.0,
+      "pii_recall": 53.33,
+      "factual_retention": 33.68,
+      "latency_s": 21.79,
+      "routing": "local",
+      "hallucination": false,
+      "validation_attempts": 3
+    },
+    {
+      "id": "doc_002",
+      "category": "hr",
+      "pii_count": 15,
+      "pii_leakage": 60.0,
+      "pii_recall": 53.33,
+      "factual_retention": 34.55,
+      "latency_s": 20.4,
+      "routing": "local",
+      "hallucination": false,
+      "validation_attempts": 3
+    },
+    {
+      "id": "doc_003",
+      "category": "legal",
+      "pii_count": 20,
+      "pii_leakage": 70.0,
+      "pii_recall": 50.0,
+      "factual_retention": 35.48,
+      "latency_s": 19.95,
+      "routing": "local",
+      "hallucination": false,
+      "validation_attempts": 3
+    },
+    {
+      "id": "doc_004",
+      "category": "medical",
+      "pii_count": 11,
+      "pii_leakage": 27.27,
+      "pii_recall": 72.73,
+      "factual_retention": 41.77,
+      "latency_s": 10.21,
+      "routing": "local",
+      "hallucination": false,
+      "validation_attempts": 1
+    },
+    {
+      "id": "doc_005",
+      "category": "hr",
+      "pii_count": 15,
+      "pii_leakage": 60.0,
+      "pii_recall": 53.33,
+      "factual_retention": 34.55,
+      "latency_s": 20.04,
+      "routing": "local",
+      "hallucination": false,
+      "validation_attempts": 3
+    }
+  ]
+}
